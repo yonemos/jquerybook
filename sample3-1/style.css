@@ -1,0 +1,27 @@
+@charset 'UTF-8';
+/*@import '';*/
+@import '_reset.css';
+
+table{
+  margin: 100px auto;
+}
+.even{
+  background: #F2F2F2;
+}
+th{
+  background: #222222;
+  color: white;
+}
+
+
+th,td{
+  padding:5px;
+  font-size:small;
+}
+.odd{
+  background: #444444;
+}
+.hover{
+  background: #B2D8FF;
+}
+
